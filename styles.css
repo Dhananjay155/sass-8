@@ -1,0 +1,69 @@
+.box-1 {
+  width: 50px;
+  height: 50px;
+  border: 2px solid #258cd1;
+  background-color: #4aa3df;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 10px;
+  font-family: Arial, sans-serif;
+  font-size: 14px;
+  color: #fff;
+}
+
+.box-2 {
+  width: 60px;
+  height: 60px;
+  border: 2px solid #217dbb;
+  background-color: #5faee3;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 10px;
+  font-family: Arial, sans-serif;
+  font-size: 14px;
+  color: #fff;
+}
+
+.box-3 {
+  width: 70px;
+  height: 70px;
+  border: 2px solid #1d6fa5;
+  background-color: #75b9e7;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 10px;
+  font-family: Arial, sans-serif;
+  font-size: 14px;
+  color: #fff;
+}
+
+.box-4 {
+  width: 80px;
+  height: 80px;
+  border: 2px solid #196090;
+  background-color: #8bc4ea;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 10px;
+  font-family: Arial, sans-serif;
+  font-size: 14px;
+  color: #fff;
+}
+
+.box-5 {
+  width: 90px;
+  height: 90px;
+  border: 2px solid #16527a;
+  background-color: #a0cfee;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 10px;
+  font-family: Arial, sans-serif;
+  font-size: 14px;
+  color: #fff;
+}/*# sourceMappingURL=styles.css.map */
